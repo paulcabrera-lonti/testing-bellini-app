@@ -1,0 +1,69 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "cgloba",
+      "nodeName": "cgloba",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Yd8OFL"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "id": "6ae2a4cf60fe1d4b67bf5de7",
+      "ownerName": null,
+      "type": "custom-component",
+      "expressions": []
+    },
+    {
+      "name": "Card",
+      "nodeName": "Card",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "BaY0XS"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "id": "6ae2a42a60fe1d4b67bf5de6",
+      "ownerName": "testing",
+      "type": "custom-component",
+      "ownerId": "6ae2a42060fe1d4b67bf5de5",
+      "ownerType": "app",
+      "expressions": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "custom-component",
+  "name": "Card",
+  "children": [
+    {
+      "name": "h1",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "Cardh1",
+          "evaluate": false
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}
