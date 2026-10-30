@@ -1,0 +1,71 @@
+{
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "mgTFex"
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "comments": "",
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "elementId": "",
+      "events": {},
+      "expressions": [],
+      "id": "6ae404d5a1c7caeabab95e7c",
+      "iterate": {
+        "array": "",
+        "trackByIndex": false,
+        "variable": ""
+      },
+      "name": "new",
+      "nodeName": "new",
+      "ownerId": "6ae4046da1c7caeabab95e76",
+      "ownerName": "testing",
+      "ownerType": "app",
+      "styles": [],
+      "type": "custom-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "-UBbNU"
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "comments": "",
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "elementId": "",
+      "events": {},
+      "expressions": [],
+      "id": "6ae4053ea1c7caeabab95e7d",
+      "iterate": {
+        "array": "",
+        "trackByIndex": false,
+        "variable": ""
+      },
+      "name": "aa",
+      "nodeName": "aa",
+      "ownerId": "6ae4046da1c7caeabab95e76",
+      "ownerName": "testing",
+      "ownerType": "app",
+      "styles": [],
+      "type": "custom-component"
+    }
+  ],
+  "name": "new",
+  "params": {},
+  "type": "page",
+  "url": "/new",
+  "variables": []
+}

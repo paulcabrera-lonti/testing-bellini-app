@@ -18,7 +18,10 @@
   "defaultPage": "home",
   "localScripts": [
     {
-      "path": "js.js"
+      "path": "js.js",
+      "properties": {
+        "type": "importmap"
+      }
     }
   ],
   "localStylesheets": [
