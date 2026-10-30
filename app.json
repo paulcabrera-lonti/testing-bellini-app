@@ -1,21 +1,31 @@
 {
-  "name": "testing",
-  "type": "app",
-  "defaultPage": "home",
   "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
     "config": {
       "parameters": [],
       "script": ""
     },
+    "environments": [],
     "modules": [],
     "properties": {
       "version": "1.0.0-SNAPSHOT"
     },
-    "environments": [],
-    "themes": [],
-    "auth": {
-      "enabled": false,
-      "mockedUserAccounts": []
+    "themes": []
+  },
+  "defaultPage": "home",
+  "localScripts": [
+    {
+      "path": "js.js"
     }
-  }
+  ],
+  "localStylesheets": [
+    {
+      "path": "css.css"
+    }
+  ],
+  "name": "testing",
+  "type": "app"
 }
